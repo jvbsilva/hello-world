@@ -1,6 +1,6 @@
 # hello-world
 Meu primeiro repositório no GitHub.
-Pretendo usar este espaço para armazenar os projetos desenvolvidos durante meu processo de apridizagem na área de Dev e Data Science.
+Pretendo usar este espaço para armazenar os projetos desenvolvidos durante meu processo de aprendizagem na área de Dev e Data Science.
 
 ## Sobre mim
 
